@@ -27,5 +27,5 @@ We welcome contributions of all kinds: bug fixes, improvements, documentation, t
 - Fork the repository to your GitHub account.  
 - Clone your fork locally:
   ```bash
-  git clone https://github.com/<your-username>/simple-interest-calculator.git
-  cd simple-interest-calculator
+  git clone https://github.com/Deveyad20/github-final-project.git
+  cd github-final-project
